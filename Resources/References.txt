@@ -1,0 +1,3 @@
+TypeWriter Animation: https://yaacoub.github.io/articles/swift-tip/crafting-a-typewriter-text-animation-in-swiftui/
+
+Gemini Integration: https://www.appcoda.com/swiftui-google-gemini-ai/
